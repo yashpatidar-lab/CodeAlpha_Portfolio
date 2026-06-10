@@ -1,0 +1,32 @@
+body{
+font-family:Arial;
+margin:0;
+}
+
+header{
+background:#333;
+color:white;
+padding:20px;
+text-align:center;
+}
+
+nav a{
+color:white;
+margin:10px;
+text-decoration:none;
+}
+
+section{
+padding:40px;
+}
+
+#skills ul{
+list-style:none;
+padding:0;
+}
+
+#skills li{
+background:#eee;
+padding:10px;
+margin:10px;
+}
